@@ -3,4 +3,4 @@ I collected article titles and their corresponding sections, such as "us," "worl
 
 ## Note- Output screenshot is joined in output_screenshot.png file
 
-![Output_Screenshot](https://drive.google.com/drive/u/0/folders/17O7M0L4vEfTTxP8AucuZgTCGsfTvd11k)
+![output_screenshot](https://github.com/ved42/News_Scrapping/blob/main/output_screenshot.png)
